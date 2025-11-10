@@ -21,7 +21,7 @@ This repository provides tools for:
 - `CurvatureExtraction.nb` -- Mathematica notebook for curvature and geometric measurements.  
 
 ### Data
-A single video is uploaded here. The full data set of segmented and pre-segmentation videos is available at **ZENXXX**. The segmentation was performed using **Segment Anything Model 2 (SAM2)** (see https://github.com/yanrui21/Foregut_septation_N).
+A single video is uploaded here. The full data set of segmented and pre-segmentation videos is available at https://doi.org/10.5281/zenodo.17576089. The segmentation was performed using **Segment Anything Model 2 (SAM2)** (see https://github.com/yanrui21/Foregut_septation_N).
 
 ### Requirements
 - Python (tested on 3.11)  
